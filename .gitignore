@@ -1,2 +1,7 @@
 data/*
 !data/.htaccess
+doc/
+*.swp
+*~
+.project
+.DS_Store
